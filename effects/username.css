@@ -78,6 +78,11 @@ a[href="/u25746"], a[href="/u25746"] span, a[href="/u25746"] span strong {
 text-shadow: 2px 0px 5px #7D7D7D;;
         }
 
+a[href="/u5725"], a[href="/u5725"] span, a[href="/u5725"] span strong { 
+            text-decoration: none !important;
+text-shadow: 2px 0px 5px #7D7D7D;;
+        }
+
 /* USERNAME SHADOWS END */
 
 /* USERNAME EFFECTS */
