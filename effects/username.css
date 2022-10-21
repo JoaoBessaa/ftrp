@@ -509,13 +509,13 @@ background-size: 300px;
 }
 
 .author a[href="/u5725"] span strong {
-  background: url(https://static.wixstatic.com/media/745e4d_2653f2be2b4d4d23a672586572e4ed99~mv2.gif);
-    background-size: auto;
-    background-clip: border-box;
+//  background: url(https://static.wixstatic.com/media/745e4d_2653f2be2b4d4d23a672586572e4ed99~mv2.gif);
+//    background-size: auto;
+//    background-clip: border-box;
 background-clip: border-box;
 background-size: 180px;
 display: inline-block;
-font-family: fascinate;
+font-family: cinzel;
 font-size: 24px;
 font-weight: 300;
 height: 50px;
@@ -524,7 +524,7 @@ margin-left: 8px;
 padding: 5px 0 0 14px;
 text-shadow: 3px 3px 3px rgba(0,0,0,0.5);
 text-transform: uppercase;
-color: #fff;
+color: #91468c;
 }
 
 .author a[href="/u4898"] span strong {
