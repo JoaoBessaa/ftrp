@@ -556,6 +556,25 @@ text-transform: uppercase;
 color: #fff;
 }
 
+//Kaito
+.author a[href="/u26494"] span strong  {
+background: url('https://i.imgur.com/MVs3EU8.gif');
+background-position-y: 10%;
+background-position-x: -110px;
+background-position-y: 80px;
+background-size: 370px;
+font-style: italic;
+display: inline-block;
+font-family: 'Genos', sans-serif;
+font-size: 34px;
+height: 100px;
+letter-spacing: 6px;
+padding: 10px 10px 0 20px;
+text-shadow: 3px 3px 3px rgba(53, 50, 48, 0.5);
+text-transform: uppercase;
+-webkit-background-clip: text !important;
+-webkit-text-fill-color: transparent !important;}
+
 /* USERNAME EFFECTS END */ 
 
 /* USERNAME FONTS */
