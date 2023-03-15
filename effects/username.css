@@ -575,6 +575,25 @@ color: #fff;
             -webkit-text-fill-color: transparent !important;
 }
 
+.author a[href="/u26815"] span strong {
+    background: url('https://i.imgur.com/y7i5NNT.gif');
+    background-position-y: 10%;
+    background-position-x: -90px;
+    background-position-y: 80px;
+    background-size: 370px;
+    display: inline-block;
+    font-family: 'Modak';
+    font-weight: lighter;
+    font-size: 32px;
+    height: 96px;
+    letter-spacing: 9px;
+    padding: 10px 10px 0 20px;
+    text-shadow: 3px 3px 3px rgba(53, 50, 48, 0.5);
+    text-transform: uppercase;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+}
+
 /* USERNAME EFFECTS END */ 
 
 /* USERNAME FONTS */
