@@ -594,6 +594,25 @@ color: #fff;
     -webkit-text-fill-color: transparent !important;
 }
 
+
+.author a[href="/u27807"] span strong {
+   background: url('https://pa1.aminoapps.com/7038/d865d51e211de23e366696c35b48ed9e74571725r1-600-265_hq.gif');
+   background-position-x: -10px;
+   background-size: 140px;
+   display: inline-block;
+   font-family: 'Lemonada';
+   font-weight: bolder;
+   font-size: 30px;
+   height: 96px;
+   letter-spacing: 9px;
+   padding: 10px 10px 0 20px;
+   text-shadow: 3px 3px 3px rgba(53, 50, 48, 0.5);
+   text-transform: uppercase;
+   -webkit-background-clip: text !important;
+   -webkit-text-fill-color: transparent !important;
+}
+
+
 /* USERNAME EFFECTS END */ 
 
 /* USERNAME FONTS */
