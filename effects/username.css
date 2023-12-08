@@ -613,6 +613,23 @@ color: #fff;
    -webkit-text-fill-color: transparent !important;
 }
 
+.author a[href="/u27764"] span strong {
+    background: url('https://i.imgur.com/mrcXnbc.gif');
+    background-position-x: -120px;
+    background-position-y: -175px;
+    background-size: 380px;
+    display: inline-block;
+    font-family: 'Permanent Marker';
+    font-size: 30px;
+    height: 96px;
+    letter-spacing: 2px;
+    padding: 10px 10px 0 20px;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+    text-transform: uppercase;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+}
+
 
 /* USERNAME EFFECTS END */ 
 
