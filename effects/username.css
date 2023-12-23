@@ -88,6 +88,12 @@ a[href="/u27557"], a[href="/u27557"] span, a[href="/u27557"] span strong {
             text-shadow: 2px 0px 5px rgb(255, 0, 0);
         }
 
+a[href="/u27853"], a[href="/u27853"] span, a[href="/u27853"] span strong { 
+            text-decoration: none !important;
+text-shadow: 2px 0px 5px rgb(50, 160, 250);
+        }
+
+
 /* USERNAME SHADOWS END */
 
 /* USERNAME EFFECTS */
@@ -748,6 +754,14 @@ text-shadow: 3px 0px 1px rgba(0,0,0,0.5);
   font-size: 22px;
   line-height: 18px;
 }
+
+.author a[href="/u27853"] span strong {
+  letter-spacing: 2px;
+    font-family: 'Macondo', cursive;
+  font-size: 18px;
+  text-shadow: 3px 0px 1px rgba(0,0,0,1);
+}
+
 
 /* USERNAME FONTS END */
 
