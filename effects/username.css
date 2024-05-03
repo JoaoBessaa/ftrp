@@ -811,12 +811,6 @@ text-shadow: 3px 0px 1px rgba(0,0,0,0.5);
                 padding-top: 0px;
             }
 
- p a[href="/u25118"], .forabg a[href="/u25118"],  .forumbg a[href="/u25118"], .page-bottom a[href="/u25118"], .module a[href="/u25118"] {
-                background: url("https://i.imgur.com/mp6VOQa.png") no-repeat;
-                padding-left: 15px;
-                padding-top: 0px;
-            }
-
  p a[href="/u27774"], .forabg a[href="/u27774"],  .forumbg a[href="/u27774"], .page-bottom a[href="/u27774"], .module a[href="/u27774"] {
                 background: url("https://i.imgur.com/mp6VOQa.png") no-repeat;
                 padding-left: 15px;
@@ -824,6 +818,13 @@ text-shadow: 3px 0px 1px rgba(0,0,0,0.5);
             }
 
  p a[href="/u27731"], .forabg a[href="/u27731"],  .forumbg a[href="/u27731"], .page-bottom a[href="/u27731"], .module a[href="/u27731"] {
+                background: url("https://i.imgur.com/mp6VOQa.png") no-repeat;
+                padding-left: 15px;
+                padding-top: 0px;
+            }
+
+
+ p a[href="/u26623"], .forabg a[href="/u26623"],  .forumbg a[href="/u26623"], .page-bottom a[href="/u26623"], .module a[href="/u26623"] {
                 background: url("https://i.imgur.com/mp6VOQa.png") no-repeat;
                 padding-left: 15px;
                 padding-top: 0px;
