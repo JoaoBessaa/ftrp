@@ -106,7 +106,7 @@ a[href="/u27924"], a[href="/u27924"] span, a[href="/u27924"] span strong {
 
 a[href="/u18102"], a[href="/u18102"] span, a[href="/u18102"] span strong { 
     text-decoration: none !important;
-    text-shadow: 2px 0px 5px #000;
+    text-shadow: 0 0 0.2em #000, 0 0 0.2em #000, 0 0 0.2em #000;
         }
 
 
