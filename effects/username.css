@@ -810,6 +810,11 @@ text-shadow: 3px 0px 1px rgba(0,0,0,0.5);
     font-size: 24px;
 }
 
+.author a[href="/u23553"] span strong {
+    font-family: cinzel decorative;
+    font-size: 24px;
+}
+
 
 /* USERNAME FONTS END */
 
