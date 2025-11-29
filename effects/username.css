@@ -119,6 +119,12 @@ a[href="/u24855"], a[href="/u24855"] span, a[href="/u24855"] span strong {
     text-shadow: 0 0 0.2em #000, 0 0 0.2em #000, 0 0 0.2em #000;
         }
 
+a[href="/u26567"], a[href="/u26567"] span, a[href="/u26567"] span strong { 
+    text-decoration: none !important;
+    text-shadow: 2px 0px 5px rgb(20, 255, 0);
+        }
+
+
 
 /* USERNAME SHADOWS END */
 
@@ -661,6 +667,25 @@ color: #fff;
     -webkit-background-clip: text !important;
     -webkit-text-fill-color: transparent !important;
 }
+
+
+.author a[href="/u26567"] span strong {
+    background: url(https://i.imgur.com/4fXv0Hg.gif);
+    background-position-x: -92px;
+    background-position-y: -148px;
+    background-size: 260px;
+    display: inline-block;
+    font-family: 'Kings', cursive;
+    font-size: 30px;
+    height: 96px;
+    letter-spacing: 7px;
+    padding: 12px 15px 0 20px;
+    text-shadow: 3px 3px 3px rgb(127 188 164 / 35%);
+    text-transform: uppercase;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+}
+
 
 
 /* USERNAME EFFECTS END */ 
